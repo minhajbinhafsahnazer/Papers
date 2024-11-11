@@ -1,2 +1,5 @@
 # Papers
-A Dedicated Repositories For Project &amp; Seminar Report
+
+## list
+- Ai & prediction (Seminar Report)
+- GalaGrid (Application )
